@@ -1,0 +1,6 @@
+artifact_location: file:///d:/InternshipPractical/HandwritingRecognition/mlruns/295361262499599189
+creation_time: 1724500287991
+experiment_id: '295361262499599189'
+last_update_time: 1724500287991
+lifecycle_stage: active
+name: MNIST_CNN_Experiment

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/InternshipPractical/handwritingrecognition/mlruns/181419095666103834/7bf93c0ffd6a40579f98bdb6fffb5c15/artifacts
+end_time: 1724501908907
+entry_point_name: ''
+experiment_id: '181419095666103834'
+lifecycle_stage: active
+run_id: 7bf93c0ffd6a40579f98bdb6fffb5c15
+run_name: charming-duck-173
+run_uuid: 7bf93c0ffd6a40579f98bdb6fffb5c15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724501819074
+status: 3
+tags: []
+user_id: nikki

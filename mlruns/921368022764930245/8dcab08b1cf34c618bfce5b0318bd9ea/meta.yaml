@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/InternshipPractical/handwritingrecognition/mlruns/921368022764930245/8dcab08b1cf34c618bfce5b0318bd9ea/artifacts
+end_time: 1724498039270
+entry_point_name: ''
+experiment_id: '921368022764930245'
+lifecycle_stage: active
+run_id: 8dcab08b1cf34c618bfce5b0318bd9ea
+run_name: glamorous-ray-817
+run_uuid: 8dcab08b1cf34c618bfce5b0318bd9ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724498039161
+status: 4
+tags: []
+user_id: nikki

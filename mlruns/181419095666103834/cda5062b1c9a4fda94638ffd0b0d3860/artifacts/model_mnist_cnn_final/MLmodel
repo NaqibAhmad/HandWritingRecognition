@@ -1,0 +1,20 @@
+artifact_path: model_mnist_cnn_final
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.12.5
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.17.0
+    model_type: keras
+    save_format: tf
+mlflow_version: 2.15.1
+model_size_bytes: 1496937
+model_uuid: 58f678a3e55b46d392c166600a89d110
+run_id: cda5062b1c9a4fda94638ffd0b0d3860
+utc_time_created: '2024-08-24 12:42:54.218215'

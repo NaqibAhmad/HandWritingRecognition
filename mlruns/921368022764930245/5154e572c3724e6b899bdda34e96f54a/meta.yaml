@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/InternshipPractical/handwritingrecognition/mlruns/921368022764930245/5154e572c3724e6b899bdda34e96f54a/artifacts
+end_time: 1724497838933
+entry_point_name: ''
+experiment_id: '921368022764930245'
+lifecycle_stage: active
+run_id: 5154e572c3724e6b899bdda34e96f54a
+run_name: puzzled-colt-320
+run_uuid: 5154e572c3724e6b899bdda34e96f54a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724497838913
+status: 4
+tags: []
+user_id: nikki

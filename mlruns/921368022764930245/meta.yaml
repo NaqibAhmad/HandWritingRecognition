@@ -1,0 +1,6 @@
+artifact_location: file:///D:/InternshipPractical/handwritingrecognition/mlruns/921368022764930245
+creation_time: 1724493857876
+experiment_id: '921368022764930245'
+last_update_time: 1724493857876
+lifecycle_stage: active
+name: HandwritingRecognition_CNN_Pipeline

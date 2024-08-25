@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/InternshipPractical/HandwritingRecognition/mlruns/295361262499599189/ad03c370df9e4e26b6d6243fa3220412/artifacts
+end_time: 1724501271642
+entry_point_name: ''
+experiment_id: '295361262499599189'
+lifecycle_stage: active
+run_id: ad03c370df9e4e26b6d6243fa3220412
+run_name: blushing-croc-420
+run_uuid: ad03c370df9e4e26b6d6243fa3220412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724501105104
+status: 3
+tags: []
+user_id: nikki

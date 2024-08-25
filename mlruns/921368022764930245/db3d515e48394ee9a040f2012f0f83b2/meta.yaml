@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/InternshipPractical/handwritingrecognition/mlruns/921368022764930245/db3d515e48394ee9a040f2012f0f83b2/artifacts
+end_time: 1724498326022
+entry_point_name: ''
+experiment_id: '921368022764930245'
+lifecycle_stage: active
+run_id: db3d515e48394ee9a040f2012f0f83b2
+run_name: carefree-bee-592
+run_uuid: db3d515e48394ee9a040f2012f0f83b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724498325840
+status: 4
+tags: []
+user_id: nikki

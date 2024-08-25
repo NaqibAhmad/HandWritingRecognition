@@ -1,0 +1,15 @@
+artifact_uri: file:////mlruns/181419095666103834/1731da22c80c4e22b4a311a4e6e97076/artifacts
+end_time: 1724582614212
+entry_point_name: ''
+experiment_id: '181419095666103834'
+lifecycle_stage: active
+run_id: 1731da22c80c4e22b4a311a4e6e97076
+run_name: industrious-ram-986
+run_uuid: 1731da22c80c4e22b4a311a4e6e97076
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724582464162
+status: 4
+tags: []
+user_id: nikki

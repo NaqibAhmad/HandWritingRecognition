@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/36c722e8621b45049d33494288069d48/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36c722e8621b45049d33494288069d48
+run_name: abundant-skunk-335
+run_uuid: 36c722e8621b45049d33494288069d48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724499808494
+status: 1
+tags: []
+user_id: nikki

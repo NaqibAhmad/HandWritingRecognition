@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/InternshipPractical/HandwritingRecognition/mlruns/482395077750180880/bcd0e0cbe1834ffdb461b657fc5dea90/artifacts
+end_time: 1724498820883
+entry_point_name: ''
+experiment_id: '482395077750180880'
+lifecycle_stage: active
+run_id: bcd0e0cbe1834ffdb461b657fc5dea90
+run_name: sneaky-moose-71
+run_uuid: bcd0e0cbe1834ffdb461b657fc5dea90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724498736385
+status: 4
+tags: []
+user_id: nikki
